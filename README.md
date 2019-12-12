@@ -16,7 +16,7 @@ This repository stores odia books downloaded mostly from online odia book hostin
  7. [ଲକ୍ଷ୍ମୀ ନାରାୟଣ ଗ୍ରନ୍ଥାବଳୀ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Classic/Laxminarayan%20Granthabali.pdf) 
  8. [ନୀଳକଂଠ ଗ୍ରନ୍ଥାବଳୀ - ପ୍ରଥମ ଖଣ୍ଡ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Classic/Nilakantha_Granthabali_Prathama_Khanda.pdf) 
  9. [ନୀଳକଂଠ ଗ୍ରନ୍ଥାବଳୀ  - ଦ୍ଵିତୀୟ ଖଣ୍ଡ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Classic/Nilakantha_Grathabali_Final.pdf) 
-10.[ଫଲାଂଗ ଫଳେ ଫଳେନି](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Classic/Phalang_Phale_Phalani.pdf)  
+ 10. [ଫଲାଂଗ ଫଳେ ଫଳେନି](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Classic/Phalang_Phale_Phalani.pdf)   
 
 # ଭ୍ରମଣ 
 
