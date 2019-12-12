@@ -37,6 +37,10 @@ This repository stores odia books downloaded mostly from online odia book hostin
  4. [ନବ ଦିଗନ୍ତ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Biography/Naba_Diganta_compressed.pdf) 
  5. [ମୋ କାହାଣୀ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Biography/mo_kahani_compressed.pdf) 
  6. [ମୋ ସମୟର ଓଡିଶା](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Biography/mo_samaya_ra_odisa.pdf) 
+ 7. [ଅର୍ଦ୍ଧ ଶତାବ୍ଦୀର ଅନୁଭୂତି : ପ୍ରଥମ ଭାଗ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Biography/Ardha%20Satabdira%20Anubhuti%2C%20v.01%20(C%20Misra%2C%201983)%20fw.pdf)
+ 8. [ଅର୍ଦ୍ଧ ଶତାବ୍ଦୀର ଅନୁଭୂତି : ଦ୍ଵିତୀୟ ଭାଗ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Biography/Ardha%20Satabdira%20Anubhuti%2C%20v.02%20(C%20Misra%2C%201985)%20fw.pdf)
+ 9. [ଜଣେ ଶାସକର ସ୍ମୃତି :ଜନ ବିମ୍ସ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Biography/Jane%20Sasakara%20Smruti%20(J%20Beams%3B%20SS%20Mishra%2C%20Tr.%2C%201992%2C%203e.%202015)%20fw.pdf)
+ 10. [କ୍ୟାପଟେନ ସ୍କଟ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Biography/Kapten%20Skat%20(C%20Mohapatra%2C%20Tr.%2C%201981)%20fw.pdf) 
 
 # ଗୋଇନ୍ଦା କାହାଣୀ 
 
@@ -76,6 +80,8 @@ This repository stores odia books downloaded mostly from online odia book hostin
  25. [ଟାହୁଲିଆ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Satire/Tahulia%20%28Faturananda,%201986%29%20fw.pdf) 
  26. [ଟାପୁରିଆ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Satire/Tapuria%20%28Faturananda,%201988%29%20fw.pdf) 
  27. [ଥଟଳିବାଜ](https://github.com/aditya-bhuyan/Books-In-Odia/blob/master/Satire/Thatalibaj%20%28Faturananda,%201983%29%20fw.pdf) 
+ 28. [ଭୋଟ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Satire/Bhota%20(Faturananda)%20f%20(-113to120)w.pdf)
+ 29. [ନିଦା ବେହେଲ](https://github.com/aditya-bhuyan/Online-Books-In-Odia/blob/master/Satire/Nida%20Behela%20(Faturananda)%20fw.pdf)
 
 
 # ଶିଶୁ /କିଶୋର 
